@@ -1,9 +1,9 @@
 #megoldás()
 def eredmeny(jatekos, gep):
     if jatekos >21:
-        print("jatekos vesztett")
+        return "jatekos vesztett"
     elif gep >21:
-        print("gep vesztett")
+        return "gep vesztett"
 
 def pontokosszege(lista):
     osszeg = 0
