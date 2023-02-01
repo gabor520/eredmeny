@@ -11,3 +11,6 @@ def pontokosszege(lista):
         osszeg += lista[]
         i +=1
 #teszt eset()
+def tesztek(jatekos_vesztett_teszt):
+  lista = [22,23,24]
+  jatekos_vesztett_teszt = lista
