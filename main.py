@@ -30,3 +30,8 @@ def gep_vesztett_teszt():
 def tesztek(gep_vesztett_teszt):
     lista = [22,23,24]
     gep_vesztett_teszt = lista
+
+
+def dontetlen(jatekos,gep):
+    if jatekos ==21 and gep ==21:
+        print("döntetlen")
